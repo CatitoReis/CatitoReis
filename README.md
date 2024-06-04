@@ -1,11 +1,9 @@
 ## Olá! Bem Vindo ao meu GitHub 🦖
 
 <div>
-  
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=CatitoReis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatitoReis&layout=compact&langs_count=16&theme=dark"/>
 </div>
-
 <br>
 
 <div align="center"> 
@@ -18,7 +16,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250">
+    <img>
     <h1 align="center">Melhores Tecnologias ⭐</h1>
     <img align="center" alt="Gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Caio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
